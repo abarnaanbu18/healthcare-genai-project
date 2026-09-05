@@ -1,0 +1,19 @@
+patient_id,name,chief_complaint_history,ground_truth_diagnosis
+1,Divya Kumar,"Headache, dizziness",Migraine
+2,Priya Kumar,"Headache, dizziness",Migraine
+3,Meena Devi,"Abdominal pain, nausea",Acute Gastroenteritis
+4,Divya Sharma,"Joint pain, swelling",Osteoarthritis
+5,Divya Naidu,"Fatigue, weight loss",Hypothyroidism
+6,Rajesh Kumar,"Persistent cough, fever",Community-Acquired Pneumonia
+7,Kavya Iyer,"Headache, dizziness",Migraine
+8,Vijay Naidu,"Chest pain, shortness of breath",Acute Coronary Syndrome
+9,Karthik Naidu,"Abdominal pain, nausea",Acute Gastroenteritis
+10,Suresh Menon,"Chest pain, shortness of breath",Acute Coronary Syndrome
+11,Priya Varma,"Joint pain, swelling",Osteoarthritis
+12,Vijay Anand,"Abdominal pain, nausea",Acute Gastroenteritis
+13,Deepa Nair,"Joint pain, swelling",Osteoarthritis
+15,Anitha Menon,"Persistent cough, fever",Community-Acquired Pneumonia
+16,Sneha Anand,"Persistent cough, fever",Community-Acquired Pneumonia
+17,Anitha Raj,"Chest pain, shortness of breath",Acute Coronary Syndrome
+20,Sneha Krishnan,"Fatigue, weight loss",Hypothyroidism
+31,Vijay Babu,"Fatigue, weight loss",Hypothyroidism
